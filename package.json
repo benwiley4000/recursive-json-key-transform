@@ -1,6 +1,6 @@
 {
   "name": "recursive-json-key-transform",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Recursively converts object keys according to specified transform function within JSON-compatible object.",
   "main": "dist/index.js",
   "scripts": {
