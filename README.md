@@ -12,7 +12,7 @@ npm install recursive-json-key-transform
 
 ##Usage
 
-```
+```javascript
 /**
  * ES6/ES2015 syntax
  */
