@@ -2,9 +2,9 @@
 
 Apply a string transformation recursively to all keys in a JSON-compatible object.
 
-It's easiest to just show how this works.
+[![NPM](https://nodei.co/npm/recursive-json-key-transform.png)](https://npmjs.org/package/recursive-json-key-transform)
 
-##Installation (get it from [npm](https://www.npmjs.com/package/recursive-json-key-transform))
+##Installation
 
 ```
 npm install recursive-json-key-transform
